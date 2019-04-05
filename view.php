@@ -12,6 +12,7 @@
     global $path, $embed, $sidebarCollapsed, $fullwidth, $menucollapses;
     $fullwidth = true;
     $menucollapses = true;
+    $v = 2; // force js & css cache reload
     
     $userid = 0;
     $v = 2;
